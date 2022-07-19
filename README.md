@@ -8,7 +8,7 @@
 
 Movie Finder App. This project is simple movie finder. You can add movie to watched and for watch lists. You can rate and change rates.
 
-![Algorithm schema](./images/1.jpg)
+![Algorithm schema](./images/1.png)
 
 ## Technologies
 
@@ -19,7 +19,7 @@ Project is created with:
 - Redux (redux thunk, redux-persist)
 - Material UI
 
-![Algorithm schema](./images/2.jpg)
+![Algorithm schema](./images/2.png)
 
 ## Setup
 
